@@ -1,1 +1,1 @@
-Es una red neuronal para pasar de meters to feet
+Son mis pasos en programacion con python
